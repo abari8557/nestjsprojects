@@ -1,0 +1,6 @@
+
+npm i -g @nestjs/cli
+
+nest -v
+
+nest new <name of project>
